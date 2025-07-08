@@ -9,3 +9,6 @@ function About() {
     </div>
   );
 }
+export default About;
+
+import { image } from "../data/user"; // Import the image from user.js

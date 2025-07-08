@@ -9,3 +9,6 @@ function Home() {
     </div>
   );
 }
+export default Home;
+
+import { username, city } from "../data/user"; // Import username and city from user.js
